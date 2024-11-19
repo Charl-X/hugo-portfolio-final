@@ -1,4 +1,22 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Charlie Shafer Portfolio'
-theme = 'hugo-coder'
+baseURL = "https://charl-x.github.io/hugo-portfolio/"
+title = "charliexshafer"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 6
+enableEmoji = true
+
+[params]
+author = "Charlie Shafer"
+description = "Charlie Shafer's personal website"
+keywords = "blog,developer,personal"
+info = ["Linux Support Technician", "Developer"]
+avatarURL = "images/avatar.jpg"
+colorScheme = "auto"
+hideColorSchemeToggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
