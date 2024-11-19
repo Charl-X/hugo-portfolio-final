@@ -36,3 +36,18 @@ name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
 url = "https://www.linkedin.com/in/charliexshafer/"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "/about"
+
+[[menu.main]]
+name = "Projects"
+weight = 2
+url = "/projects"
+
+[[menu.main]]
+name = "Contact"
+weight = 3
+url = "/contact"
