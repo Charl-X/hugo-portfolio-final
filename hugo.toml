@@ -20,3 +20,19 @@ hideColorSchemeToggle = false
   series = "series"
   tag = "tags"
   author = "authors"
+
+faviconSVG = "/img/favicon.svg"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/charl-x/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/charliexshafer/"
